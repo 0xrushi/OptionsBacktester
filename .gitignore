@@ -1,0 +1,9 @@
+data/
+polygon/
+intraday/
+optalpha.py
+/downloaded_data.txt
+/.vscode/launch.json
+/.idea/
+/optalpha.py.old
+/preprocess.ipynb
